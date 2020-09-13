@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8c4806d49f4b9158f7593f14700c796",
+    "revision": "ae243ef7ad8434d2101bfcd4e9d6c998",
     "url": "/dhyanasloka/index.html"
   },
   {
