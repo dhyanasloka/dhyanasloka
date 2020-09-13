@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.8e1ef15f.chunk.js",
-    "main.js.map": "/static/js/main.8e1ef15f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e114442a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e114442a.js.map",
-    "static/js/2.53b2a0e6.chunk.js": "/static/js/2.53b2a0e6.chunk.js",
-    "static/js/2.53b2a0e6.chunk.js.map": "/static/js/2.53b2a0e6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.958bbff612a18adc0f9f9b5b534f9b58.js": "/precache-manifest.958bbff612a18adc0f9f9b5b534f9b58.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.53b2a0e6.chunk.js.LICENSE.txt": "/static/js/2.53b2a0e6.chunk.js.LICENSE.txt",
-    "static/media/harihara.jpeg": "/static/media/harihara.9be0e744.jpeg",
-    "static/media/karma.jpeg": "/static/media/karma.2c8d2f29.jpeg",
-    "static/media/logo.png": "/static/media/logo.fa1715b1.png",
-    "static/media/maasam.png": "/static/media/maasam.986636e1.png",
-    "static/media/one.jpeg": "/static/media/one.9ffb8394.jpeg",
-    "static/media/svspp.png": "/static/media/svspp.2b77adaf.png"
+    "main.js": "/dhyanasloka/static/js/main.148b82fa.chunk.js",
+    "main.js.map": "/dhyanasloka/static/js/main.148b82fa.chunk.js.map",
+    "runtime-main.js": "/dhyanasloka/static/js/runtime-main.40a4bef2.js",
+    "runtime-main.js.map": "/dhyanasloka/static/js/runtime-main.40a4bef2.js.map",
+    "static/js/2.ba1f7da2.chunk.js": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js",
+    "static/js/2.ba1f7da2.chunk.js.map": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js.map",
+    "index.html": "/dhyanasloka/index.html",
+    "precache-manifest.2c23b9042fa34fa7510d486ca1dd978b.js": "/dhyanasloka/precache-manifest.2c23b9042fa34fa7510d486ca1dd978b.js",
+    "service-worker.js": "/dhyanasloka/service-worker.js",
+    "static/js/2.ba1f7da2.chunk.js.LICENSE.txt": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js.LICENSE.txt",
+    "static/media/harihara.jpeg": "/dhyanasloka/static/media/harihara.9be0e744.jpeg",
+    "static/media/karma.jpeg": "/dhyanasloka/static/media/karma.2c8d2f29.jpeg",
+    "static/media/logo.png": "/dhyanasloka/static/media/logo.fa1715b1.png",
+    "static/media/maasam.png": "/dhyanasloka/static/media/maasam.986636e1.png",
+    "static/media/one.jpeg": "/dhyanasloka/static/media/one.9ffb8394.jpeg",
+    "static/media/svspp.png": "/dhyanasloka/static/media/svspp.2b77adaf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e114442a.js",
-    "static/js/2.53b2a0e6.chunk.js",
-    "static/js/main.8e1ef15f.chunk.js"
+    "static/js/runtime-main.40a4bef2.js",
+    "static/js/2.ba1f7da2.chunk.js",
+    "static/js/main.148b82fa.chunk.js"
   ]
 }
