@@ -9,14 +9,14 @@ import { Navbar, Footer } from './components';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <GlobalStyle />
       <ScrollToTop />
       <Navbar />
       <Switch>
-        <Route path='/' exact component={Home} />
-        <Route path='/videos' component={Videos} />
-        <Route path="/articles" component={Articles} />
+        <Route path='{process.env.PUBLIC_URL}/' exact component={Home} />
+        <Route path='{process.env.PUBLIC_URL}/videos' component={Videos} />
+        <Route path="{process.env.PUBLIC_URL}/articles" component={Articles} />
       </Switch>
       <Footer />
     </Router>
