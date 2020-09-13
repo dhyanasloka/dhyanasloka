@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dhyanasloka/precache-manifest.99063c11b9b3d18e50f697a9310a0dfc.js"
+  "/dhyanasloka/precache-manifest.b920239270114329a398817042a1eaf7.js"
 );
 
 self.addEventListener('message', (event) => {
