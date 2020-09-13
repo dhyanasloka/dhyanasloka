@@ -14,9 +14,9 @@ function App() {
       <ScrollToTop />
       <Navbar />
       <Switch>
-        <Route path='{process.env.PUBLIC_URL}/' exact component={Home} />
-        <Route path='{process.env.PUBLIC_URL}/videos' component={Videos} />
-        <Route path="{process.env.PUBLIC_URL}/articles" component={Articles} />
+        <Route path='/' exact component={Home} />
+        <Route path='/videos' component={Videos} />
+        <Route path="/articles" component={Articles} />
       </Switch>
       <Footer />
     </Router>
