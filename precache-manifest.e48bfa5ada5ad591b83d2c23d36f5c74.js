@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc1b04070ed04539e11ac78a8cafd051",
+    "revision": "82a4a178a0d2a421deffe9795f0c7a81",
     "url": "/dhyanasloka/index.html"
   },
   {
-    "revision": "087f9836783e11ae8103",
-    "url": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js"
+    "revision": "4a380ffa3610d6e86ae6",
+    "url": "/dhyanasloka/static/js/2.8944e9f7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js.LICENSE.txt"
+    "url": "/dhyanasloka/static/js/2.8944e9f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f140edeebce339e5479c",
-    "url": "/dhyanasloka/static/js/main.6050b530.chunk.js"
+    "revision": "27c704cff917638ef050",
+    "url": "/dhyanasloka/static/js/main.853dd9e0.chunk.js"
   },
   {
     "revision": "6359047ee27b1c1e079f",
