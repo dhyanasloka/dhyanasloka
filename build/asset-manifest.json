@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.js": "/dhyanasloka/static/js/main.6050b530.chunk.js",
-    "main.js.map": "/dhyanasloka/static/js/main.6050b530.chunk.js.map",
+    "main.js": "/dhyanasloka/static/js/main.963ad6ef.chunk.js",
+    "main.js.map": "/dhyanasloka/static/js/main.963ad6ef.chunk.js.map",
     "runtime-main.js": "/dhyanasloka/static/js/runtime-main.40a4bef2.js",
     "runtime-main.js.map": "/dhyanasloka/static/js/runtime-main.40a4bef2.js.map",
-    "static/js/2.ba1f7da2.chunk.js": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js",
-    "static/js/2.ba1f7da2.chunk.js.map": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js.map",
+    "static/js/2.820e1c12.chunk.js": "/dhyanasloka/static/js/2.820e1c12.chunk.js",
+    "static/js/2.820e1c12.chunk.js.map": "/dhyanasloka/static/js/2.820e1c12.chunk.js.map",
     "index.html": "/dhyanasloka/index.html",
-    "precache-manifest.cca8c02a2077509ced938866b9bdba17.js": "/dhyanasloka/precache-manifest.cca8c02a2077509ced938866b9bdba17.js",
+    "precache-manifest.45002ab3704a244ab03c00ee300f3f7d.js": "/dhyanasloka/precache-manifest.45002ab3704a244ab03c00ee300f3f7d.js",
     "service-worker.js": "/dhyanasloka/service-worker.js",
-    "static/js/2.ba1f7da2.chunk.js.LICENSE.txt": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js.LICENSE.txt",
+    "static/js/2.820e1c12.chunk.js.LICENSE.txt": "/dhyanasloka/static/js/2.820e1c12.chunk.js.LICENSE.txt",
+    "static/media/gayathrimantra.jpg": "/dhyanasloka/static/media/gayathrimantra.0ebd69c6.jpg",
     "static/media/harihara.jpeg": "/dhyanasloka/static/media/harihara.9be0e744.jpeg",
     "static/media/karma.jpeg": "/dhyanasloka/static/media/karma.2c8d2f29.jpeg",
     "static/media/logo.png": "/dhyanasloka/static/media/logo.fa1715b1.png",
@@ -19,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.40a4bef2.js",
-    "static/js/2.ba1f7da2.chunk.js",
-    "static/js/main.6050b530.chunk.js"
+    "static/js/2.820e1c12.chunk.js",
+    "static/js/main.963ad6ef.chunk.js"
   ]
 }

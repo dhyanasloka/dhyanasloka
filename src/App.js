@@ -7,8 +7,6 @@ import Articles from './pages/ArticlesPage/Articles';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import ScrollToTop from './components/ScrollToTop';
 import { Navbar, Footer } from './components';
-// import { Button, View, Text } from 'react-native';
-
 const domainGroupId = 'f096c79d-2c79-435a-8636-685723d03031';
 
 
@@ -26,7 +24,7 @@ function App() {
         <Route path="/articles" component={Articles} />
       </Switch>
       <Footer />
-      {/* <div style={{ flex: 1, alignItems: 'center' }}>
+      <div style={{ flex: 1, alignItems: 'center' }}>
         <CookieBot domainGroupId={domainGroupId} />
         <p>Click to test Cookiebot</p>
         <button title="TEST" onPress={() => setHasCookieBot(!!document.querySelector('#CookieBot'))} >
@@ -34,7 +32,7 @@ function App() {
         <div style={{ color: 'red', marginVertical: 10 }}>
           {hasCookieBot && `Has CookieBot: ${JSON.stringify(hasCookieBot)}`}
         </div>
-      </div> */}
+      </div>
     </Router>
   )
 }

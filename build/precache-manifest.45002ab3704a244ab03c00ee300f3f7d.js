@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc1b04070ed04539e11ac78a8cafd051",
+    "revision": "57524c9a8e87718ccfd928d0402342fc",
     "url": "/dhyanasloka/index.html"
   },
   {
-    "revision": "087f9836783e11ae8103",
-    "url": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js"
+    "revision": "c29139f150a27fe2c47a",
+    "url": "/dhyanasloka/static/js/2.820e1c12.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js.LICENSE.txt"
+    "url": "/dhyanasloka/static/js/2.820e1c12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f140edeebce339e5479c",
-    "url": "/dhyanasloka/static/js/main.6050b530.chunk.js"
+    "revision": "f3dc426a792d372083c5",
+    "url": "/dhyanasloka/static/js/main.963ad6ef.chunk.js"
   },
   {
     "revision": "6359047ee27b1c1e079f",
     "url": "/dhyanasloka/static/js/runtime-main.40a4bef2.js"
+  },
+  {
+    "revision": "0ebd69c6b0644c56163a6c700d393e28",
+    "url": "/dhyanasloka/static/media/gayathrimantra.0ebd69c6.jpg"
   },
   {
     "revision": "9be0e7440fd2b011777fa1a453f2e3e1",
