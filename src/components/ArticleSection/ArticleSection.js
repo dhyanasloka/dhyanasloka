@@ -1,19 +1,14 @@
 import React from 'react';
-import {Container,Button} from '../../globalStyles'
-import { InfoSec,InfoRow,InfoColumn,TextWrapper,TopLine,Heading,Subtitle,ImgWrapper,Img, Articlepoint, Articlebody} from './ArticleSection.elements';
+import {Container} from '../../globalStyles'
+import { InfoSec,InfoRow,InfoColumn,TextWrapper,Heading,ImgWrapper,Img, Articlepoint, Articlebody} from './ArticleSection.elements';
 
 
 function ArticleSection({
-    primary,
     lightBg,
-    topLine,
     lightText,
-    lightTopLine,
-    lightTextDesc,
     headline,
     description1,
     description2,
-    buttonLabel,
     img,
     alt,
     imgStart,
