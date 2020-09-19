@@ -33,13 +33,12 @@ export const InfoColumn = styled.div`
 export const TextWrapper = styled.div`
   
   padding-top: 0;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
 
   @media screen and (max-width: 768px) {
     padding-bottom: 65px;
   }
 `;
-// max-width: 640px;
 
 export const ImgWrapper = styled.div`
   max-width: 855px;
@@ -73,9 +72,22 @@ export const Heading = styled.h1`
   color: ${({ lightText }) => (lightText ? '#f7f8fa' : '#1c2237')};
 `;
 
+export const Articlebody = styled.ul`
+list-style: none;
+padding:0;
+margin:0;
+
+`;
+
+export const Articlepoint = styled.li`
+font-size: 18px;
+  line-height: 24px;
+  color: ${({ lightText }) => (lightText ? '#f7f8fa' : '#1c2237')};
+
+`;
 export const Subtitle = styled.p`
-  max-width: 440px;
-  margin-bottom: 35px;
+  max-width: 640px;
+  margin-bottom: 10px;
   font-size: 18px;
   line-height: 24px;
   color: ${({ lightTextDesc }) => (lightTextDesc ? '#a9b3c1' : '#1c2237')};

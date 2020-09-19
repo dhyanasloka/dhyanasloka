@@ -1,13 +1,14 @@
 import React from 'react';
-import { homeObjectone, homeObjectTwo, homeObjectThree } from './Data';
-import { InfoSection } from '../../components';
+import { homeObjectFour,homeObjectone, homeObjectTwo, homeObjectThree } from './Data';
+import { ArticleSection } from '../../components';
 
 function Articles() {
     return (
         <>
-            <InfoSection {...homeObjectone} />
-            <InfoSection {...homeObjectTwo} />
-            <InfoSection {...homeObjectThree} />
+            <ArticleSection {...homeObjectFour} />
+            <ArticleSection {...homeObjectone} />
+            <ArticleSection {...homeObjectTwo} />
+            <ArticleSection {...homeObjectThree} />
 
         </>
     );

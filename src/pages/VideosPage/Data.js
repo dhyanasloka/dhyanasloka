@@ -1,3 +1,18 @@
+
+
+export const homeObjlatest = {
+  lightBg: true,
+  lightText: false,
+  lightTopLine: false,
+  lightTextDesc: false,
+  topLine: 'Sri Narasmiha saraswathi swami stothram',
+  headline: 'అత్యంత మహిమాన్విత మైన రోగహరణ శక్తిగల ఈ శ్లోకం మీకోసం',
+  description:
+    '',
+  imgStart: '',
+  videoUrl: 'https://www.youtube.com/watch?v=apJnUxxMJH4&lc=UgwTvMJiLHMQf2vjzgF4AaABAg'
+};
+
 export const homeObjOne = {
   lightBg: true,
   lightText: false,
@@ -37,4 +52,19 @@ export const homeObjThree = {
 
   imgStart: '',
   videoUrl: 'https://www.youtube.com/watch?v=TZ-1Gzu5KwE&list=PL2Lw3DhO90gmQQiXmLy1JCbosRhZJ9gdP&index=4&t=0s'
+};
+
+
+export const homeObjFour = {
+  lightBg: false,
+  lightText: true,
+  lightTopLine: true,
+  lightTextDesc: true,
+  topLine: 'Guru krupa',
+  headline: 'Chant this sloka to get Guru krupa',
+  description:
+    'Guru removes darkness and ignorance. Knowledge gained from guru helps one to attain his/her goal.',
+
+  imgStart: '',
+  videoUrl: 'https://www.youtube.com/watch?v=SJojjw0_Wvc'
 };
