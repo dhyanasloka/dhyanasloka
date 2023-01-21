@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/dhyanasloka/static/js/main.ac66997d.chunk.js",
-    "main.js.map": "/dhyanasloka/static/js/main.ac66997d.chunk.js.map",
+    "main.js": "/dhyanasloka/static/js/main.dcd5d517.chunk.js",
+    "main.js.map": "/dhyanasloka/static/js/main.dcd5d517.chunk.js.map",
     "runtime-main.js": "/dhyanasloka/static/js/runtime-main.40a4bef2.js",
     "runtime-main.js.map": "/dhyanasloka/static/js/runtime-main.40a4bef2.js.map",
     "static/js/2.ba1f7da2.chunk.js": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js",
     "static/js/2.ba1f7da2.chunk.js.map": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js.map",
     "index.html": "/dhyanasloka/index.html",
-    "precache-manifest.27ffe5614231b97b5b918e9041603dfe.js": "/dhyanasloka/precache-manifest.27ffe5614231b97b5b918e9041603dfe.js",
+    "precache-manifest.e76d763f0916293bb95973ee323d3508.js": "/dhyanasloka/precache-manifest.e76d763f0916293bb95973ee323d3508.js",
     "service-worker.js": "/dhyanasloka/service-worker.js",
     "static/js/2.ba1f7da2.chunk.js.LICENSE.txt": "/dhyanasloka/static/js/2.ba1f7da2.chunk.js.LICENSE.txt",
     "static/media/gayathrimantra.jpg": "/dhyanasloka/static/media/gayathrimantra.0ebd69c6.jpg",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.40a4bef2.js",
     "static/js/2.ba1f7da2.chunk.js",
-    "static/js/main.ac66997d.chunk.js"
+    "static/js/main.dcd5d517.chunk.js"
   ]
 }
