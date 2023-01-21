@@ -1,17 +1,17 @@
-import React from 'react';
-import { VideoSection } from '../../components';
-import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Data';
+import React from "react";
+import { VideoSection } from "../../components";
+import { homeObjOne, homeObjThree, homeObjFour, homeObjlatest } from "./Data";
 
 function Videos() {
-    return (
-        <>
-            <VideoSection {...homeObjFour} />
-            <VideoSection {...homeObjOne} />
-            <VideoSection {...homeObjTwo} />
-            <VideoSection {...homeObjThree} />
-
-        </>
-    )
+  return (
+    <>
+      <VideoSection {...homeObjOne} />
+      <VideoSection {...homeObjlatest} />
+      <VideoSection {...homeObjThree} />
+      {/* <VideoSection {...homeObjTwo} /> */}
+      <VideoSection {...homeObjFour} />
+    </>
+  );
 }
 
 export default Videos;

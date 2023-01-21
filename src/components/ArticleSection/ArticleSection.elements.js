@@ -1,9 +1,9 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const InfoSec = styled.div`
   color: #fff;
-  padding: 160px 0;
-  background: ${({ lightBg }) => (lightBg ? '#fff' : '#101522')};
+  padding: 130px 0;
+  background: ${({ lightBg }) => (lightBg ? "#fff" : "#101522")};
 `;
 
 export const InfoRow = styled.div`
@@ -11,7 +11,7 @@ export const InfoRow = styled.div`
   margin: 0 -15px -15px -15px;
   flex-wrap: wrap;
   align-items: center;
-  flex-direction: ${({ imgStart }) => (imgStart ? 'row-reverse' : 'row')};
+  flex-direction: ${({ imgStart }) => (imgStart ? "row-reverse" : "row")};
 `;
 
 export const InfoColumn = styled.div`
@@ -31,7 +31,6 @@ export const InfoColumn = styled.div`
 `;
 
 export const TextWrapper = styled.div`
-  
   padding-top: 0;
   padding-bottom: 30px;
 
@@ -43,11 +42,11 @@ export const TextWrapper = styled.div`
 export const ImgWrapper = styled.div`
   max-width: 855px;
   display: flex;
-  justify-content: ${({ start }) => (start ? 'flex-start' : 'flex-end')};
+  justify-content: ${({ start }) => (start ? "flex-start" : "flex-end")};
 `;
 
 export const TopLine = styled.div`
-  color: ${({ lightTopLine }) => (lightTopLine ? '#a9b3c1' : '#4B59F7')};
+  color: ${({ lightTopLine }) => (lightTopLine ? "#a9b3c1" : "#4B59F7")};
   font-size: 20px;
   line-height: 16px;
   font-weight: 700;
@@ -69,26 +68,24 @@ export const Heading = styled.h1`
   font-size: 48px;
   line-height: 1.1;
   font-weight: 600;
-  color: ${({ lightText }) => (lightText ? '#f7f8fa' : '#1c2237')};
+  color: ${({ lightText }) => (lightText ? "#f7f8fa" : "#1c2237")};
 `;
 
 export const Articlebody = styled.ul`
-list-style: none;
-padding:0;
-margin:0;
-
+  list-style: none;
+  padding: 0;
+  margin: 0;
 `;
 
 export const Articlepoint = styled.li`
-font-size: 18px;
+  font-size: 18px;
   line-height: 24px;
-  color: ${({ lightText }) => (lightText ? '#f7f8fa' : '#1c2237')};
-
+  color: ${({ lightText }) => (lightText ? "#f7f8fa" : "#1c2237")};
 `;
 export const Subtitle = styled.p`
   max-width: 640px;
   margin-bottom: 10px;
   font-size: 18px;
   line-height: 24px;
-  color: ${({ lightTextDesc }) => (lightTextDesc ? '#a9b3c1' : '#1c2237')};
+  color: ${({ lightTextDesc }) => (lightTextDesc ? "#a9b3c1" : "#1c2237")};
 `;
